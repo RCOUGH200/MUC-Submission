@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Ryan\Documents\MondaysChilds\Mondays Child\build\intermediates\pre-dexed\debug\classes-4b92dd5975bc5244fea341ae8b593d4939873938.jar"
+        jar="C:\Users\Ryan\Documents\MondaysChilds\Mondays Child\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Ryan\Documents\MondaysChilds\Mondays Child\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-9d4792f6fe6337ab70b9ed44ccee4af2ecaab281.jar"
+        jar="C:\Users\Ryan\Documents\MondaysChilds\Mondays Child\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Ryan\Documents\MondaysChilds\Mondays Child\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-f38eb5d836feb5ec7fe777a4a82dfd915d434f0d.jar"
+        jar="C:\Users\Ryan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Ryan\Documents\MondaysChilds\Mondays Child\build\intermediates\pre-dexed\debug\classes-4976c28193a62acc4a7888193a5cf091b15ff9d4.jar"
+        jar="C:\Users\Ryan\Documents\MondaysChilds\Mondays Child\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da"/>
+    <item
+        dex="C:\Users\Ryan\Documents\MondaysChilds\Mondays Child\build\intermediates\pre-dexed\debug\classes-fff3f438b9564cbe763c62275123d722f3ace20f.jar"
+        jar="C:\Users\Ryan\Documents\MondaysChilds\Mondays Child\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.0.1\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b"/>
+
+</pre-dex-items>

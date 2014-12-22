@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#8A0808"
+        android:id="@+id/tournOut"
+    android:alpha=".7">
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/uhm">
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/tournLogo"
+                android:src="@drawable/d2cl"
+                android:layout_column="0"
+                android:layout_marginBottom="0dp"
+                android:layout_marginRight="50dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="tournament"
+                android:id="@+id/tournTitle"
+                android:typeface = "serif"
+                android:textColor="#ACACAC"
+                android:layout_column="1"
+                android:layout_marginRight="165dp"
+                android:layout_marginBottom="10dp" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:id="@+id/row2">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Month:"
+                android:id="@+id/tournMonth"
+                android:layout_column="0"
+                android:typeface = "serif"
+                android:textColor="#ACACAC"
+                android:layout_marginBottom="15dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="month"
+                android:id="@+id/tournMonthVal"
+                android:typeface = "serif"
+                android:textColor="#ACACAC"
+                android:layout_column="1" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Prize fund:"
+                android:id="@+id/tourFund"
+                android:layout_column="0"
+                android:typeface = "serif"
+                android:textColor="#ACACAC"
+                android:layout_marginBottom="15dp"
+                android:layout_marginRight="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="prizefund"
+                android:id="@+id/tournFundVal"
+                android:typeface = "serif"
+                android:textColor="#ACACAC"
+                android:layout_column="1" />
+        </TableRow>
+
+</TableLayout>
